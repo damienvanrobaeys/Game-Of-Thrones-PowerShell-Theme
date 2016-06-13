@@ -28,7 +28,3 @@
 [console]::beep(520,150)     
 [console]::beep(450,800)     
 
-
-# [console]::beep(520,1000) 
-    # sleep -Milliseconds 200
-# [console]::beep(620,1000) 
